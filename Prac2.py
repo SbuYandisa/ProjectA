@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python3.
 """
 Python Practical 2 Code for heterodyning and performance testing
 Keegan Crankshaw
